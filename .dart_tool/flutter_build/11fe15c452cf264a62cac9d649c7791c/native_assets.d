@@ -1,0 +1,1 @@
+ /Users/ooi0929/Documents/GDG-KIM-Member-24-25/.dart_tool/flutter_build/11fe15c452cf264a62cac9d649c7791c/native_assets.yaml: 
